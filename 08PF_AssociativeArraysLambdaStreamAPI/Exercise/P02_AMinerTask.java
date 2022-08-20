@@ -1,4 +1,4 @@
-package Exsercise;
+package Exercise;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
