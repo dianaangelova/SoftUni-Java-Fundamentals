@@ -1,4 +1,4 @@
-package Exsercise;
+package Exercise;
 
 import java.util.*;
 import java.util.stream.Collectors;
