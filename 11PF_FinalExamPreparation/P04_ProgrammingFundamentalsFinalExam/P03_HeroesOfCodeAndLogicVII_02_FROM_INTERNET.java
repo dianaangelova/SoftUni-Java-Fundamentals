@@ -124,4 +124,3 @@ public class P03_HeroesOfCodeAndLogicVII_02_FROM_INTERNET {
                 .forEach(e -> System.out.println(String.format("%s%n  HP: %d%n  MP: %d", e.getName(), e.getHitPoints(), e.getManaPoints())));
     }
 }
-// test
